@@ -1,4 +1,4 @@
-# Crafting Interpretors with TypeScript
+# Crafting Interpreters with TypeScript
 
 This is just a stream of consciousness as I worked through the first half of 
 Crafting Interpreters using TypeScript.
